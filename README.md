@@ -1,4 +1,4 @@
-# Student-Management-System-Project
+# Student-Management-System-Project _ Updating Version
 Student Management System Project in JAVA_University of the People
 Develop a GUI application for a Student Management System. 
 The application should provide a user-friendly interface for administrators to interact with student records, course enrollment, and grades. The GUI should be implemented using Java's GUI frameworks, such as Swing or JavaFX. Event handling mechanisms should be employed to respond to user interactions, and the interface should update dynamically to reflect changes in student records.
