@@ -44,3 +44,4 @@ Provide comprehensive documentation for the project, explaining the purpose and 
 Describe the design choices made for the GUI interface and the rationale behind them.
 Include instructions for running the program and interacting with the GUI interface.
 @Gemnotgraphene
+![image](https://github.com/gemnotgraphene/Student-Management-System-Project/assets/87027529/42c8c5dc-a166-45b0-9428-3dfd881baadf)
